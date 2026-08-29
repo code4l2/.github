@@ -2,13 +2,15 @@
 
 ## Axis
 
-- https://axis.code412.com
-- https://t.me/code4l2_bot
+- [Web](https://axis.code412.com)
+- [TG Bot](https://t.me/code4l2_bot)
 
 ## IRBYX
 
-- https://kerny.tech
-- https://vidtrixa.com
-- https://texaria.com
-- https://cs2loot.shop
-- https://model3dgen.com
+- [kerny](https://kerny.tech)
+- [vidtrixa](https://vidtrixa.com)
+- [texaria](https://texaria.com)
+- [cs2loot](https://cs2loot.shop)
+- [model3dgen](https://model3dgen.com)
+- [beatoki](https://beatoki.com)
+- [gputex](https://gputex.com)
