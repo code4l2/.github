@@ -2,7 +2,7 @@
 
 ## Axis
 
-- https://axis.code412.com/
+- https://axis.code412.com
 - https://t.me/code4l2_bot
 
 ## IRBYX
@@ -11,4 +11,4 @@
 - https://vidtrixa.com
 - https://texaria.com
 - https://cs2loot.shop
-- https://model3dgen.com/
+- https://model3dgen.com
